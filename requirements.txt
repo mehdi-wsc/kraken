@@ -1,4 +1,5 @@
 setuptools
+setuptools_rust
 flake8
 datetime
 pyfiglet
