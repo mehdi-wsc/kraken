@@ -1,3 +1,5 @@
+setuptools
+flake8
 datetime
 pyfiglet
 PyYAML
